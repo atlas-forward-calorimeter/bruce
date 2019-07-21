@@ -1,3 +1,5 @@
+This is Bruce's original simulation of the FCal tubes and plates, stripped down to the essentials.
+
 # Detailed simulation of Forward Calorimeter Layer 1 
 - Author: Zhaoyuan "Maxwell" Cui
 - Advisor: Prof. [Erich Varnes](http://w3.physics.arizona.edu/people/erich-varnes)
